@@ -1,0 +1,2 @@
+mypc.example.com
+yourlinux.example.com
